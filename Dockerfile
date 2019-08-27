@@ -1,5 +1,5 @@
 FROM debian:buster-slim
-LABEL maintainer="vvakame@gmail.com"
+LABEL maintainer="YukiMariaMiyatake@gmail.com"
 
 ENV REVIEW_VERSION 3.2.0
 ENV REVIEW_PEG_VERSION 0.2.2
